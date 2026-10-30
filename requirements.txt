@@ -1,0 +1,9 @@
+# Installed into .venv by install.sh. torch brings its own CUDA and cuDNN
+# from pip; nothing system wide.
+torch==2.14.0
+transformers==5.17.0
+numpy==2.5.3
+fastapi==0.135.2
+uvicorn==0.42.0
+python-multipart==0.0.22
+soundfile==0.13.1
